@@ -1,0 +1,23 @@
+{
+	"name": "Hasura GraphQL Engine",
+	"description": "Hasura GraphQL Engine <> heroku",
+	"keywords": [
+		"graphql",
+		"backend",
+		"heroku",
+    "graphqlapi"
+	],
+	"repository": "https://github.com/karthikvt26/heroku-push",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql:hobby-dev"
+    }
+  ]
+}
