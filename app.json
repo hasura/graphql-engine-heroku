@@ -7,7 +7,7 @@
 		"heroku",
     "graphqlapi"
 	],
-	"repository": "https://github.com/karthikvt26/heroku-push",
+	"repository": "https://github.com/hasura/graphql-engine-heroku",
   "formation": {
     "web": {
       "quantity": 1,
