@@ -1,13 +1,13 @@
 {
-	"name": "Hasura GraphQL Engine",
-	"description": "Hasura GraphQL Engine <> heroku",
-	"keywords": [
-		"graphql",
-		"backend",
-		"heroku",
-    "graphqlapi"
-	],
-	"repository": "https://github.com/hasura/graphql-engine-heroku",
+  "name": "Hasura GraphQL Engine",
+  "description": "Hasura GraphQL Engine <> heroku",
+  "keywords": [
+    "graphql",
+    "heroku",
+    "postgres",
+    "hasura"
+  ],
+  "repository": "https://github.com/hasura/graphql-engine-heroku",
   "formation": {
     "web": {
       "quantity": 1,
