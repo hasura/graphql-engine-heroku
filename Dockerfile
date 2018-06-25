@@ -1,4 +1,4 @@
-FROM hasura/graphql-engine:4d2d2ca
+FROM hasura/graphql-engine:c7905f9
 
 # Change $DATABASE_URL to your heroku postgres URL if you're not using
 # the primary postgres instance in your app
