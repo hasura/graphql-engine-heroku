@@ -5,7 +5,7 @@ FROM rakesh572/graphql-engine:e637f3d
 CMD graphql-engine \
     --database-url $DATABASE_URL \
     serve \
-    --server-port $PORT
+    --server-port $PORT \
     --enable-console
 
 
