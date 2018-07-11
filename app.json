@@ -1,8 +1,10 @@
 {
   "name": "Hasura GraphQL Engine",
-  "description": "Hasura GraphQL Engine <> heroku",
+  "description": "Instant GraphQL APIs on Heroku Postgres",
   "logo": "https://storage.googleapis.com/hasura-graphql-engine/console/assets/favicon.png",
   "keywords": [
+    "database",
+    "api",
     "graphql",
     "heroku",
     "postgres",
