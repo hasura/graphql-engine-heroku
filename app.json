@@ -1,6 +1,7 @@
 {
   "name": "Hasura GraphQL Engine",
   "description": "Hasura GraphQL Engine <> heroku",
+  "logo": "https://storage.googleapis.com/hasura-graphql-engine/console/assets/favicon.png",
   "keywords": [
     "graphql",
     "heroku",
