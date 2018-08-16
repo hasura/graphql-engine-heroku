@@ -1,6 +1,6 @@
 {
   "name": "Hasura GraphQL Engine",
-  "description": "Blazing fast instant GraphQL APIs on Postgres with fine grained access control",
+  "description": "Blazing fast, instant, realtime GraphQL APIs on Postgres with fine grained access control",
   "logo": "https://storage.googleapis.com/hasura-graphql-engine/console/assets/favicon.png",
   "keywords": [
     "database",
