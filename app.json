@@ -10,6 +10,8 @@
     "postgres",
     "hasura"
   ],
+  "success_url": "/console",
+  "website": "https://hasura.io",
   "repository": "https://github.com/hasura/graphql-engine-heroku",
   "formation": {
     "web": {
