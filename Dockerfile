@@ -1,4 +1,4 @@
-FROM hasura/graphql-engine:v1.0.0-alpha20
+FROM hasura/graphql-engine:v1.0.0-alpha21
 # Change $DATABASE_URL to your heroku postgres URL if you're not using
 # the primary postgres instance in your app
 CMD graphql-engine \
