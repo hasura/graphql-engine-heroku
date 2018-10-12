@@ -4,8 +4,7 @@ FROM hasura/graphql-engine:v1.0.0-alpha24
 CMD graphql-engine \
     --database-url $DATABASE_URL \
     serve \
-    --server-port $PORT \
-    --enable-console
+    --server-port $PORT
 
 ## Comment the command above and use the command below to
 ## enable an access-key and an auth-hook
@@ -14,6 +13,7 @@ CMD graphql-engine \
 #    --database-url $DATABASE_URL \
 #    serve \
 #    --server-port $PORT \
-#    --enable-console
 #    --access-key XXXXX \
 #    --auth-hook https://myapp.com/hasura-webhook 
+#
+# Console can be enable/disabled by the env var HASURA_GRAPHQL_ENABLE_CONSOLE
