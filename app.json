@@ -19,9 +19,6 @@
       "size": "free"
     }
   },
-  "env": {
-    "HASURA_GRAPHQL_ENABLE_CONSOLE": "true"
-  },
   "stack": "container",
   "addons": [
     {
