@@ -26,7 +26,7 @@ Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postg
 [![Deploy to
 Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
-![Create New App - Heroku](assets/create_new_app_heroku_3.png)
+![Create New App - Heroku](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/create_new_app_heroku_3.png)
 
 ### 2. Open Hasura Console
 
@@ -34,7 +34,7 @@ Once the deployment is complete, click on the `View` button as marked above.
 This will take you to the Hasura Console, where you can create a table and make
 your first GraphQL query. 
 
-![Hasura Console](assets/hasura_console.png)
+![Hasura Console](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_console.png)
 
 ### 3. Create a table
 
@@ -48,7 +48,7 @@ Navigate to `Data -> Create table` on the console and create a table called
 
 Choose `id` as the Primary key and click the `Create` button.
 
-![Hasura Console - Create table](assets/hasura_create_table.png)
+![Hasura Console - Create table](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_create_table.png)
 
 ### 4. Insert sample data
 
@@ -62,7 +62,7 @@ Captain America
 Black Widow
 ```
 
-![Hasura Console - Insert rows](assets/hasura_insert_row.png)
+![Hasura Console - Insert rows](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_insert_row.png)
 
 ### 5. Try out GraphQL
 
@@ -77,7 +77,7 @@ query {
 }
 ```
 
-![Hasura Console - GraphQL query](assets/hasura_graphql_query.png)
+![Hasura Console - GraphQL query](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_graphql_query.png)
 
 ## Support & Troubleshooting
 
