@@ -21,7 +21,7 @@ Read more at [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.i
 ## Quickstart
 
 ### 1. Deploy to Heroku 
-Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postgres;
+Deploy to Heroku and instantly get a realtime GraphQL API backed by Heroku Postgres:
 
 [![Deploy to
 Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
