@@ -13,7 +13,7 @@ on database events for asynchronous business logic.
 Hasura helps you build GraphQL apps backed by Postgres or incrementally move to
 GraphQL for existing applications using Postgres. 
 
-Deploy Hasura GraphQL Engine on Heroku and get a GraphQL endpoint in under 30 seconds :timer:
+Deploy Hasura GraphQL Engine on Heroku and get a GraphQL endpoint in under 30 seconds :clock1:
 
 Read more at [hasura.io](https://hasura.io) and the [docs](https://docs.hasura.io). 
 
