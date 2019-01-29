@@ -1,7 +1,7 @@
 # Hasura GraphQL Engine on Heroku
 
 [![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine.svg?style=social&label=Star)](https://github.com/hasura/graphql-engine) 
-<a href="https://discord.gg/3FNQnWj"><img src="https://img.shields.io/badge/chat-discord-brightgreen.svg?logo=discord&style=flat"></a>
+<a href="https://discord.gg/vBPpJkS"><img src="https://img.shields.io/badge/chat-discord-brightgreen.svg?logo=discord&style=flat"></a>
 <a href="https://twitter.com/intent/follow?screen_name=HasuraHQ"><img src="https://img.shields.io/badge/Follow-HasuraHQ-blue.svg?style=flat&logo=twitter"></a>
 <a href="https://eepurl.com/dBUfJ5"><img src="https://img.shields.io/badge/newsletter-subscribe-yellow.svg?style=flat"></a>
 
@@ -81,10 +81,10 @@ query {
 
 ## Support & Troubleshooting
 
-Feel free to talk to us on [Discord](https://discord.gg/3FNQnWj) about anything
+Feel free to talk to us on [Discord](https://discord.gg/vBPpJkS) about anything
 and everything. You can also contact us using one of the following channels: 
 
-* Support & feedback: [Discord](https://discord.gg/3FNQnWj)
+* Support & feedback: [Discord](https://discord.gg/vBPpJkS)
 * Issue & bug tracking: [GitHub issues](https://github.com/hasura/graphql-engine/issues)
 * Follow product updates: [@HasuraHQ](https://twitter.com/hasurahq)
 * Talk to us on our [website chat](https://hasura.io).
