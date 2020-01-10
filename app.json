@@ -15,8 +15,7 @@
   "repository": "https://github.com/hasura/graphql-engine-heroku",
   "formation": {
     "web": {
-      "quantity": 1,
-      "size": "free"
+      "quantity": 1
     }
   },
   "stack": "container",
