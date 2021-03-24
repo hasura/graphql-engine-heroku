@@ -92,7 +92,7 @@ and everything. You can also contact us using one of the following channels:
 ## Next steps
 
 - [Using an existing Heroku database](https://docs.hasura.io/1.0/graphql/manual/deployment/heroku/using-existing-heroku-database.html)
-- [Securing your GraphQL Endpoint](https://docs.hasura.io/1.0/graphql/manual/deployment/heroku/securing-graphql-endpoint.html)
+- [Securing your GraphQL Endpoint](https://hasura.io/docs/latest/graphql/core/deployment/securing-graphql-endpoint.html)
 - [Checking GraphQL Engine logs](https://docs.hasura.io/1.0/graphql/manual/deployment/heroku/logging.html)
 - [Updating to the latest version](https://docs.hasura.io/1.0/graphql/manual/deployment/heroku/updating.html)
 
