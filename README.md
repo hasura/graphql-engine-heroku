@@ -31,12 +31,19 @@ Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
 ### 2. Open Hasura Console
 
 Once the deployment is complete, click on the `View` button as marked above.
-This will take you to the Hasura Console, where you can create a table and make
+This will take you to the Hasura Console, where you can connect your database, create a table and make
 your first GraphQL query. 
 
 ![Hasura Console](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_console.png)
 
-### 3. Create a table
+### 3. Connect a database
+
+Head to the `Data` tab on the console and connect your database. If you do not have an existing database, you can connect to the 
+Heroku Postgres database that was set up with your deployment using the `DATABASE_URL` env var.
+
+![heroku_connect_db](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/heroku_connect_db.png)
+
+### 4. Create a table
 
 Navigate to `Data -> Create table` on the console and create a table called
 `profile` with the following columns:
@@ -50,7 +57,7 @@ Choose `id` as the Primary key and click the `Create` button.
 
 ![Hasura Console - Create table](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_create_table.png)
 
-### 4. Insert sample data
+### 5. Insert sample data
 
 Once the table is created, go to the `Insert Row` tab and insert some sample
 rows:
@@ -64,7 +71,7 @@ Black Widow
 
 ![Hasura Console - Insert rows](https://graphql-engine-cdn.hasura.io/heroku-repo/assets/hasura_insert_row.png)
 
-### 5. Try out GraphQL
+### 6. Try out GraphQL
 
 Switch to the `GraphiQL` tab on top and execute the following GraphQL query:
 
