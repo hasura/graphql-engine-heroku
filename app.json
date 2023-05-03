@@ -12,7 +12,7 @@
   ],
   "success_url": "/console",
   "website": "https://hasura.io",
-  "repository": "https://github.com/hasura/graphql-engine-heroku",
+  "repository": "https://github.com/pooky-lighting/graphql-engine-heroku",
   "formation": {
     "web": {
       "quantity": 1
@@ -21,7 +21,7 @@
   "stack": "container",
   "addons": [
     {
-      "plan": "heroku-postgresql:hobby-dev"
+      "plan": "heroku-postgresql:standard-0"
     }
   ]
 }
