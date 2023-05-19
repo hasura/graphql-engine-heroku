@@ -22,7 +22,7 @@
   "stack": "container",
   "addons": [
     {
-      "plan": "heroku-postgresql:hobby-dev"
+      "plan": "heroku-postgresql:basic"
     }
   ]
 }
