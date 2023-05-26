@@ -7,7 +7,7 @@ ENV HASURA_GRAPHQL_ENABLE_CONSOLE=true
 ENV HASURA_GRAPHQL_DEV_MODE=true
 
 # Heroku only allows to install extensions in the heroku_ext schema
-ENV HASURA_GRAPHQL_METADATA_DATABASE_EXTENSIONS_SCHEMA=heroku_ext
+ENV HASURA_GRAPHQL_METADATA_DATABASE_EXTENSIONS_SCHEMA=public
 
 # Heroku hobby tier PG has few limitations including 20 max connections
 # https://devcenter.heroku.com/articles/heroku-postgres-plans#hobby-tier
